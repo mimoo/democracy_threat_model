@@ -1,6 +1,8 @@
-# democracy_threat_model
+# Democracy Threat Model
 
 A threat model for democracies in general. Every democracy is different and so, some of these might only apply to some of these.
+We should thrive to remain general, but give examples and resources to understand each point.
+This document is made to understand how to defend against such threats, but also how a political system can be improved for the people.
 
 ## Attack Model
 
