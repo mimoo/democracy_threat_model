@@ -28,7 +28,8 @@ Consequences:
 * Increase a minority's power (perhaps a political party)
 * Increase a majority's power
 * Death
-* laws
+* law change
+* change of power (intra-national or inter-national), perhaps for trades between two countries.
 
 ## Attack Vectors
 
