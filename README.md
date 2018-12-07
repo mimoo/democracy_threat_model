@@ -48,3 +48,10 @@ Consequences:
 * Demonstrations, Events
 * Terrorist Attacks
 * Laws (sometimes passed during the night, or holidays)
+
+## Attacks
+
+* Amplification of events
+* Propaganda: dissemination of false news, personality cult
+* Assassination 
+* Specific Laws
